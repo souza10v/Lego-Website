@@ -33,15 +33,4 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
    ```bash
    npm run dev
 
-## Estrutura do Projeto
-
-├── src
-│   ├── assets
-│   │   └── images
-│   │       ├── [...]
-│   ├── components
-│   │   ├── [...]
-│   └── App.js
-├── package.json
-└── README.md
 
